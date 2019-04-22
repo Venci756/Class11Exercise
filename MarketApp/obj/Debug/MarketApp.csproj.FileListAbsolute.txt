@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\bin\Debug\MarketApp.exe.config
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\bin\Debug\MarketApp.exe
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\bin\Debug\MarketApp.pdb
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\obj\Debug\MarketApp.csprojAssemblyReference.cache
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\obj\Debug\MarketApp.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\obj\Debug\MarketApp.exe
+C:\Users\code\Desktop\Venko\Class11MarketApp\MarketApp\MarketApp\obj\Debug\MarketApp.pdb
